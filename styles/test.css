@@ -130,6 +130,7 @@ body{
     height:60px;
     border-bottom:1px dashed #444;
     position:relative;
+    list-style: none;
 }
 
 .user-nm{
