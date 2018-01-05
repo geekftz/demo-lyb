@@ -70,6 +70,9 @@ body{
     font-size:18px;
 }
 
+.user-ms{
+    color:darkgray;
+}
 
 .num-btn{
     height:40px;
@@ -102,6 +105,7 @@ body{
     top:3px;
     right:15px;
     cursor: pointer;
+    color:#fff;
 }
 
 .content{
@@ -134,13 +138,19 @@ body{
 }
 
 .user-nm{
-    color:blue;
+    color:orangered;
 }
 
 .user-pt{
     position:absolute;
     left:60px;
     top:5px;
+}
+
+.time{
+    position: absolute;;
+    left:60px;
+    top:35px;
 }
 
 .del{
@@ -158,6 +168,7 @@ body{
     position: absolute;
     left:5px;
     top:5px;
+    display:block;
 }
 
 .opa{
